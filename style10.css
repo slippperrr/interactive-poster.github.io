@@ -1,0 +1,38 @@
+body {
+  font-family: "Capture it", arial;
+  margin: 0;
+  padding: 0;
+}
+
+.fon {
+  position: absolute;
+  width: 100%;
+}
+
+/*/////////////////////////////////////////////////////////*/
+    .vera {
+      position:sticky;
+      width: 680px;
+      left: 22%;
+      font-size: larger;
+      
+      
+    }
+    
+    .vera h1 {
+      color: rgb(0, 0, 0);
+      text-align: center;
+      font-size: 35px;
+      margin-top: auto;
+    }
+    
+    .vera p {
+      text-align: center;
+    }
+    
+    .vera_img{
+        position: relative;
+        left:15%;
+    }
+    
+    /*/ ////////////////////////////////////////////////////////*/

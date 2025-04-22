@@ -1,0 +1,39 @@
+body {
+    font-family: "Capture it", arial;
+    margin: 0;
+    padding: 0;
+  }
+  
+  .fon {
+    position: absolute;
+    width: 100%;
+  }
+  
+  /*/////////////////////////////////////////////////////////*/
+    .matrosov {
+      position:sticky;
+      width: 680px;
+      left: 22%;
+      font-size: larger;
+      
+      
+    }
+    
+    .matrosov h1 {
+      color: rgb(0, 0, 0);
+      text-align: center;
+      font-size: 35px;
+      margin-top: auto;
+    }
+    
+    .matrosov p {
+      text-align: center;
+    }
+    
+    .matrosov_img{
+        position: relative;
+        left:15%;
+    }
+    
+    /*/ ////////////////////////////////////////////////////////*/
+  
